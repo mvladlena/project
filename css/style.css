@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color:#aeebfa;
+} 
+.container {
+    width: 100%;    
+    max-width: 1200px;     
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 5px;
+    padding-top: 40px;
+}
+
+.btn-group button {
+    background-color: #aeebfa;   
+    padding: 10px 24px; 
+    cursor: pointer; 
+    width: 50%;
+    margin: auto; 
+    display: block;
+    align-items: center;
+} 
+.btn-group button:hover {
+    background-color: #00ccff;
+}
+    
+    
+    
+    
+      
+    
+
+
